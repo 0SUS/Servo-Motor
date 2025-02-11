@@ -13,7 +13,7 @@ Este projeto controla um servo motor utilizando a placa Raspberry Pi Pico e um s
 - **Servo Motor:**
   - Fio **vermelho** (VCC) → 5V
   - Fio **preto/marrom** (GND) → GND
-  - Fio **amarelo/laranja** (Sinal) → GPIO 22
+  - Fio **azul** (Sinal) → GPIO 22
 
 ## Funcionamento
 1. Configura a GPIO do servo para funcionar como saída PWM.
