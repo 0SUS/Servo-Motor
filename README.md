@@ -1,5 +1,7 @@
 # Controle de Servo Motor com PWM no Raspberry Pi Pico
 
+link do vídeo: https://youtu.be/PRaOhm3H9MA
+
 ## Descrição do Projeto
 Este projeto controla um servo motor utilizando a placa Raspberry Pi Pico e um sinal PWM. O código configura a GPIO 22 (ou outra GPIO, como a 12, para testes na placa BitDogLab) para gerar um sinal PWM com frequência de 50Hz, permitindo o controle preciso da posição do servo motor.
 
